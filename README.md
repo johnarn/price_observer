@@ -1,5 +1,5 @@
 # price_observer
-Basic application that observes the prices of products once a day and informs by email if the price of a product is lower than a certain limit
+Application that observes the prices of products once a day and informs by email if the price of a product is lower than a certain limit
 
 # Usage
 Follow steps below:
